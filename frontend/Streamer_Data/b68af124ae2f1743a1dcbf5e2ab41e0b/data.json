@@ -1,0 +1,79 @@
+{
+  "channelId": "b68af124ae2f1743a1dcbf5e2ab41e0b",
+  "channelName": "독케익",
+  "profileImageUrl": "https://nng-phinf.pstatic.net/MjAyNTExMDFfMTc3/MDAxNzYxOTM2MjA3ODM1.MbfWvSCU1fmaZYFSz8rzq4_O3ciRBNarCybnykrl1gMg.q014-7JPijsB311qheVTIKDlgDo2kmsKohzyADrBGUUg.PNG/image.png",
+  "lastCollectedAt": "2026-01-29T00:39:12.558Z",
+  "vodCount": 237,
+  "recentVods": [
+    {
+      "videoNo": "11486320",
+      "title": "원턴킬",
+      "date": "2026-01-29",
+      "duration": 45043,
+      "videoType": "REPLAY"
+    },
+    {
+      "videoNo": "11469349",
+      "title": "공포딱지게임 아웃오브핸즈 ",
+      "date": "2026-01-28",
+      "duration": 39031,
+      "videoType": "REPLAY"
+    },
+    {
+      "videoNo": "11411200",
+      "title": "각종같이보기합니다 watchparty",
+      "date": "2026-01-24",
+      "duration": 7316,
+      "videoType": "REPLAY"
+    },
+    {
+      "videoNo": "11404560",
+      "title": "출근해야지 - 로보토미 12일차 부터",
+      "date": "2026-01-24",
+      "duration": 46172,
+      "videoType": "REPLAY"
+    },
+    {
+      "videoNo": "11387852",
+      "title": "SCP 비위맞추기게",
+      "date": "2026-01-23",
+      "duration": 56861,
+      "videoType": "REPLAY"
+    },
+    {
+      "videoNo": "11369499",
+      "title": "찔찔",
+      "date": "2026-01-22",
+      "duration": 45236,
+      "videoType": "REPLAY"
+    },
+    {
+      "videoNo": "11301699",
+      "title": "부동산을 차렸습니다",
+      "date": "2026-01-18",
+      "duration": 30123,
+      "videoType": "REPLAY"
+    },
+    {
+      "videoNo": "11279166",
+      "title": "lck 페이트 김동현 두쫀쿠 독케익",
+      "date": "2026-01-17",
+      "duration": 14824,
+      "videoType": "REPLAY"
+    },
+    {
+      "videoNo": "11269186",
+      "title": "땅파고 거지되는께임 (플랜테라까지 잡음)",
+      "date": "2026-01-16",
+      "duration": 46602,
+      "videoType": "REPLAY"
+    },
+    {
+      "videoNo": "11252355",
+      "title": "오늘부터 하드모드 땅파고거지되기",
+      "date": "2026-01-15",
+      "duration": 55150,
+      "videoType": "REPLAY"
+    }
+  ]
+}
