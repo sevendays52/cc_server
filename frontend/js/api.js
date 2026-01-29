@@ -1,15 +1,3 @@
-/**
- * GitHub API & Static JSON Client
- * - 읽기: GitHub Pages에서 정적 JSON 파일 로드 (Streamer_Data 디렉토리 구조)
- * - 쓰기: GitHub Contents API로 직접 커밋 (frontend/streamer_ids.json)
- *
- * GitHub repo 구조:
- *   frontend/
- *     ├── streamer_ids.json
- *     ├── Streamer_Data/{channelId}/data.json
- *     └── index.html, css/, js/
- */
-
 const GH_API = 'https://api.github.com';
 
 // === GitHub 설정 (localStorage) ===
