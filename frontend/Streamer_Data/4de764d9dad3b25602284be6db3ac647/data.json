@@ -2,9 +2,16 @@
   "channelId": "4de764d9dad3b25602284be6db3ac647",
   "channelName": "아리사",
   "profileImageUrl": "https://nng-phinf.pstatic.net/MjAyNTA1MTBfMjAx/MDAxNzQ2ODY0NzIwNDY1.NnE1idlJtwTgWbW4_e6VjB5sV72TKKcklCKj7Z-x9E4g.JQzog5SAqZKu0cbxg2R9EJfRScZ6GhCrrl1IJXlhZ0wg.PNG/31C5D6C9-0592-48CC-8FAB-784E401CBD24-1746864717.png",
-  "lastCollectedAt": "2026-01-29T04:21:27.458Z",
-  "vodCount": 639,
+  "lastCollectedAt": "2026-01-29T08:05:45.890Z",
+  "vodCount": 640,
   "recentVods": [
+    {
+      "videoNo": "11488187",
+      "title": "2026년 01월 28일 2부 지뢰찾기용사켠왕",
+      "date": "2026-01-29",
+      "duration": 9825,
+      "videoType": "REPLAY"
+    },
     {
       "videoNo": "11487261",
       "title": "2026년 01월 28일 1부 지뢰찾기용사켠왕",
@@ -66,13 +73,6 @@
       "title": "탑에 사는 괴물 태초갈때마다 햄버거",
       "date": "2026-01-19",
       "duration": 34520,
-      "videoType": "REPLAY"
-    },
-    {
-      "videoNo": "11274912",
-      "title": "페제로 진짜 진짜 진짜 진짜 진짜 기대된다 페스나 게임만 한 사람",
-      "date": "2026-01-16",
-      "duration": 6455,
       "videoType": "REPLAY"
     }
   ]
